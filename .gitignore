@@ -3,3 +3,6 @@ _site
 _config.yml
 _drafts
 .ruby-version
+
+.bundle
+Gemfile.lock
